@@ -17,7 +17,7 @@ Es un sistema operativo empleado para telefonos móviles que esta basado en linu
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/185px-Android_robot.svg.png)
 
-# Mac OS X
+# Mac OS 
 
 Es el sistema operativo de Apple, es el segundo sistema operativo de escritorio más utilizado, después de Microsoft Windows. Es el sistema operativo principal para la familia de computadoras Mac de Apple.
 
