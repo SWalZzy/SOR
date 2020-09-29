@@ -19,3 +19,9 @@ Manjaro. Manjaro. Manjaro es la distribución que ha conquistado el último año
 5. Solus. 
 6. Antergos.
 7. Fedora. 
+
+## ¿Qué es unix y en que se diferencian unix y linux?
+  
+ Unix es un sistema operativo portable, multitarea y multiusuario
+ 
+ La diferencia es que linux es solo el nucleo (kendrel) y unix es el sistema operativo completo.
